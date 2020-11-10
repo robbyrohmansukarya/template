@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1029584429993",
+    "firebase_url": "https://chatgateway-1d78f.firebaseio.com",
+    "project_id": "chatgateway-1d78f",
+    "storage_bucket": "chatgateway-1d78f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029584429993:android:8bc074a37b41dd9b84dab8",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029584429993-0ubj6blqkv6mi1ho5bh42jmvpp72apt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfu8byMe2aMfdoJ-ZqhfW1R19U_7X6Hes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029584429993-0ubj6blqkv6mi1ho5bh42jmvpp72apt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029584429993:android:55c1ed029bf67e5384dab8",
+        "android_client_info": {
+          "package_name": "com.example.shoppinglist2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029584429993-r5lt3jofckspvcq2jgmue602ac40tobb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppinglist2",
+            "certificate_hash": "95d0be5e8e769352f617ca579304251147350c4a"
+          }
+        },
+        {
+          "client_id": "1029584429993-0ubj6blqkv6mi1ho5bh42jmvpp72apt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfu8byMe2aMfdoJ-ZqhfW1R19U_7X6Hes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029584429993-0ubj6blqkv6mi1ho5bh42jmvpp72apt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
